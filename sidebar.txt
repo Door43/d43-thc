@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thc:home|Door43 (thc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thc|d43-thc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thc/archive/master.zip|d43-thc.zip]]
+
+**Recent Changes**
+{{changes>ns = thc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thc|Ethnologue data]]
+
